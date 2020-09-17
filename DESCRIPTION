@@ -1,0 +1,16 @@
+Package: UNcommtradeAPI
+Type: Package
+Title: UNcommtradeAPI
+Version: 0.1.0
+Author: Justin Lesniak
+Maintainer: Justin Lesniak <jlesniak12@gmail.comt>
+Description: This package contains functions to make it convienent to use the UN COMMTRADE API. Functions include checking for data availability and calling the API as well as several general utility functions.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    httr,
+    tibble,
+    dplyr,
+    jsonlite
+RoxygenNote: 7.1.1
