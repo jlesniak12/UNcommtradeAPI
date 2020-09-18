@@ -12,8 +12,6 @@
 #' @export
 #'
 #' @examples
-#'   #Outputs a list of all first quarter months 2010 - 2020 formatted YYYYMM
-#'   time_conversion(years = list("2010","2011", "2012", "2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020"), months = list("01", "02", "03"))
 
 
 
